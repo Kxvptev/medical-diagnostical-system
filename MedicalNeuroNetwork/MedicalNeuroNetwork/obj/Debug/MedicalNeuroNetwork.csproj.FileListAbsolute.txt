@@ -1,0 +1,7 @@
+D:\Программирование\MS VC#\MedicalNeuroNetwork\MedicalNeuroNetwork\bin\Debug\MedicalNeuroNetwork.exe.config
+D:\Программирование\MS VC#\MedicalNeuroNetwork\MedicalNeuroNetwork\bin\Debug\MedicalNeuroNetwork.exe
+D:\Программирование\MS VC#\MedicalNeuroNetwork\MedicalNeuroNetwork\bin\Debug\MedicalNeuroNetwork.pdb
+D:\Программирование\MS VC#\MedicalNeuroNetwork\MedicalNeuroNetwork\obj\Debug\MedicalNeuroNetwork.csprojAssemblyReference.cache
+D:\Программирование\MS VC#\MedicalNeuroNetwork\MedicalNeuroNetwork\obj\Debug\MedicalNeuroNetwork.csproj.CoreCompileInputs.cache
+D:\Программирование\MS VC#\MedicalNeuroNetwork\MedicalNeuroNetwork\obj\Debug\MedicalNeuroNetwork.exe
+D:\Программирование\MS VC#\MedicalNeuroNetwork\MedicalNeuroNetwork\obj\Debug\MedicalNeuroNetwork.pdb

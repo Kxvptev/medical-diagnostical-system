@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MedicalSystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Сороковик Михаил Андреевич</name>
+  <age>18</age>
+  <diagnosis>
+    <string>Отравление, 13 апреля 2019 | 21:01:10</string>
+  </diagnosis>
+  <parameters>
+    <double>0.59999999999999964</double>
+    <double>0.17</double>
+    <double>0</double>
+    <double>0.8</double>
+    <double>0.5</double>
+    <double>0</double>
+    <double>0.3</double>
+  </parameters>
+</MedicalSystem>

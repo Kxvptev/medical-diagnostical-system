@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MedicalSystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Пелевин Виктор Олегович</name>
+  <age>56</age>
+  <diagnosis>
+    <string>Грипп, 13 апреля 2019 | 21:06:23</string>
+  </diagnosis>
+  <parameters>
+    <double>0.34999999999999964</double>
+    <double>0.17</double>
+    <double>0.6</double>
+    <double>0.5</double>
+    <double>0.5</double>
+    <double>0.4</double>
+    <double>0.3</double>
+  </parameters>
+</MedicalSystem>

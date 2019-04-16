@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MedicalSystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Шаршнёв Максим Леонидович</name>
+  <age>18</age>
+  <diagnosis>
+    <string>Рак лёгких, 15 апреля 2019 | 08:34:01</string>
+  </diagnosis>
+  <parameters>
+    <double>0.15000000000000036</double>
+    <double>0.17</double>
+    <double>1</double>
+    <double>0.5</double>
+    <double>0.2</double>
+    <double>0</double>
+    <double>0.6</double>
+  </parameters>
+</MedicalSystem>
